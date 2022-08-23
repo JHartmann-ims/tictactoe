@@ -10,9 +10,9 @@ $(document).ready(function () {
         count++;
         $("#num").text(count);
         if (count % 2 == 0) {
-          $(this).prepend('<img class="x" src="../Images/x.png" />');
+          $(this).prepend('<img class="x" src="Images/x.png" />');
         } else if (count % 2 != 0) {
-          $(this).prepend('<img class="circle" src="../Images/circle.png" />');
+          $(this).prepend('<img class="circle" src="Images/circle.png" />');
         }
       } else if (won == true) {
 

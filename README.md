@@ -1,4 +1,5 @@
 # tictactoe.js
-First time using javaScript for making a game.
+First time using javascript for making a game. 
+Still working on it...
 
-This project is for a bigger one incoming in the future.
+This project is for a bigger one coming in the future.
