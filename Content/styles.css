@@ -72,3 +72,30 @@ table img {
   
 }
 
+.inner-container {
+  position: relative;
+}
+
+#wonDisplay {
+  border-radius: 10px;
+  text-align: center;
+  padding: 6%;
+}
+
+/*Adjusting for mobile*/
+
+@media screen and (max-width: 650px) {
+    .game-container {
+      width: 300px;
+      height: 300px;
+    }
+
+    .game-container table {
+      height: 300px;
+    }
+
+    table img {
+      width: 32px;
+    }
+
+}
