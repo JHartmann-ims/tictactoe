@@ -40,7 +40,7 @@ $(document).ready(function () {
         .css({
           position: "absolute",
           width: "60%",
-          height: "25%",
+          height: "35%",
           background: "grey",
           top: "50%",
           left: "50%",
@@ -49,7 +49,7 @@ $(document).ready(function () {
         })
         .appendTo($(".game-container").css("position", "relative"));
 
-      $("<button type='button' class='btn btn-dark restartBtn'>Restart</button>").appendTo(
+      $("<button type='button' class='btn btn-dark restartBtn smol'>Restart</button>").appendTo(
         $("#wonDisplay")
       );
 
@@ -78,7 +78,7 @@ $(document).ready(function () {
         .css({
           position: "absolute",
           width: "60%",
-          height: "25%",
+          height: "35%",
           background: "grey",
           top: "50%",
           left: "50%",
@@ -87,7 +87,7 @@ $(document).ready(function () {
         })
         .appendTo($(".game-container").css("position", "relative"));
 
-      $("<button type='button' class='btn btn-dark restartBtn'>Restart</button>").appendTo(
+      $("<button type='button' class='btn btn-dark restartBtn smol'>Restart</button>").appendTo(
         $("#wonDisplay")
       );
 
@@ -115,7 +115,7 @@ $(document).ready(function () {
         .css({
           position: "absolute",
           width: "60%",
-          height: "25%",
+          height: "35%",
           background: "grey",
           top: "50%",
           left: "50%",
@@ -124,7 +124,7 @@ $(document).ready(function () {
         })
         .appendTo($(".game-container").css("position", "relative"));
 
-      $("<button type='button' class='btn btn-dark restartBtn'>Restart</button>").appendTo(
+      $("<button type='button' class='btn btn-dark restartBtn smol'>Restart</button>").appendTo(
         $("#wonDisplay")
       );
 
@@ -152,7 +152,7 @@ $(document).ready(function () {
         .css({
           position: "absolute",
           width: "60%",
-          height: "25%",
+          height: "35%",
           background: "grey",
           top: "50%",
           left: "50%",
@@ -161,7 +161,7 @@ $(document).ready(function () {
         })
         .appendTo($(".game-container").css("position", "relative"));
 
-      $("<button type='button' class='btn btn-dark restartBtn'>Restart</button>").appendTo(
+      $("<button type='button' class='btn btn-dark restartBtn smol'>Restart</button>").appendTo(
         $("#wonDisplay")
       );
 
@@ -189,7 +189,7 @@ $(document).ready(function () {
         .css({
           position: "absolute",
           width: "60%",
-          height: "25%",
+          height: "35%",
           background: "grey",
           top: "50%",
           left: "50%",
@@ -198,7 +198,7 @@ $(document).ready(function () {
         })
         .appendTo($(".game-container").css("position", "relative"));
 
-      $("<button type='button' class='btn btn-dark restartBtn'>Restart</button>").appendTo(
+      $("<button type='button' class='btn btn-dark restartBtn smol'>Restart</button>").appendTo(
         $("#wonDisplay")
       );
 
@@ -226,7 +226,7 @@ $(document).ready(function () {
         .css({
           position: "absolute",
           width: "60%",
-          height: "25%",
+          height: "35%",
           background: "grey",
           top: "50%",
           left: "50%",
@@ -235,7 +235,7 @@ $(document).ready(function () {
         })
         .appendTo($(".game-container").css("position", "relative"));
 
-      $("<button type='button' class='btn btn-dark restartBtn'>Restart</button>").appendTo(
+      $("<button type='button' class='btn btn-dark restartBtn smol'>Restart</button>").appendTo(
         $("#wonDisplay")
       );
 
@@ -263,7 +263,7 @@ $(document).ready(function () {
         .css({
           position: "absolute",
           width: "60%",
-          height: "25%",
+          height: "35%",
           background: "grey",
           top: "50%",
           left: "50%",
@@ -272,7 +272,7 @@ $(document).ready(function () {
         })
         .appendTo($(".game-container").css("position", "relative"));
 
-      $("<button type='button' class='btn btn-dark restartBtn'>Restart</button>").appendTo(
+      $("<button type='button' class='btn btn-dark restartBtn smol'>Restart</button>").appendTo(
         $("#wonDisplay")
       );
 
@@ -300,7 +300,7 @@ $(document).ready(function () {
         .css({
           position: "absolute",
           width: "60%",
-          height: "25%",
+          height: "35%",
           background: "grey",
           top: "50%",
           left: "50%",
@@ -309,7 +309,7 @@ $(document).ready(function () {
         })
         .appendTo($(".game-container").css("position", "relative"));
 
-      $("<button type='button' class='btn btn-dark restartBtn'>Restart</button>").appendTo(
+      $("<button type='button' class='btn btn-dark restartBtn smol'>Restart</button>").appendTo(
         $("#wonDisplay")
       );
 
@@ -338,7 +338,7 @@ $(document).ready(function () {
         .css({
           position: "absolute",
           width: "60%",
-          height: "25%",
+          height: "35%",
           background: "grey",
           top: "50%",
           left: "50%",
@@ -347,7 +347,7 @@ $(document).ready(function () {
         })
         .appendTo($(".game-container").css("position", "relative"));
 
-      $("<button type='button' class='btn btn-dark restartBtn'>Restart</button>").appendTo(
+      $("<button type='button' class='btn btn-dark restartBtn smol'>Restart</button>").appendTo(
         $("#wonDisplay")
       );
 
@@ -375,7 +375,7 @@ $(document).ready(function () {
         .css({
           position: "absolute",
           width: "60%",
-          height: "25%",
+          height: "35%",
           background: "grey",
           top: "50%",
           left: "50%",
@@ -384,7 +384,7 @@ $(document).ready(function () {
         })
         .appendTo($(".game-container").css("position", "relative"));
 
-      $("<button type='button' class='btn btn-dark restartBtn'>Restart</button>").appendTo(
+      $("<button type='button' class='btn btn-dark restartBtn smol'>Restart</button>").appendTo(
         $("#wonDisplay")
       );
 
@@ -412,7 +412,7 @@ $(document).ready(function () {
         .css({
           position: "absolute",
           width: "60%",
-          height: "25%",
+          height: "35%",
           background: "grey",
           top: "50%",
           left: "50%",
@@ -421,7 +421,7 @@ $(document).ready(function () {
         })
         .appendTo($(".game-container").css("position", "relative"));
 
-      $("<button type='button' class='btn btn-dark restartBtn'>Restart</button>").appendTo(
+      $("<button type='button' class='btn btn-dark restartBtn smol'>Restart</button>").appendTo(
         $("#wonDisplay")
       );
 
@@ -449,7 +449,7 @@ $(document).ready(function () {
         .css({
           position: "absolute",
           width: "60%",
-          height: "25%",
+          height: "35%",
           background: "grey",
           top: "50%",
           left: "50%",
@@ -458,7 +458,7 @@ $(document).ready(function () {
         })
         .appendTo($(".game-container").css("position", "relative"));
 
-      $("<button type='button' class='btn btn-dark restartBtn'>Restart</button>").appendTo(
+      $("<button type='button' class='btn btn-dark restartBtn smol'>Restart</button>").appendTo(
         $("#wonDisplay")
       );
 
@@ -486,7 +486,7 @@ $(document).ready(function () {
         .css({
           position: "absolute",
           width: "60%",
-          height: "25%",
+          height: "35%",
           background: "grey",
           top: "50%",
           left: "50%",
@@ -495,7 +495,7 @@ $(document).ready(function () {
         })
         .appendTo($(".game-container").css("position", "relative"));
 
-      $("<button type='button' class='btn btn-dark restartBtn'>Restart</button>").appendTo(
+      $("<button type='button' class='btn btn-dark restartBtn smol'>Restart</button>").appendTo(
         $("#wonDisplay")
       );
 
@@ -523,7 +523,7 @@ $(document).ready(function () {
         .css({
           position: "absolute",
           width: "60%",
-          height: "25%",
+          height: "35%",
           background: "grey",
           top: "50%",
           left: "50%",
@@ -532,7 +532,7 @@ $(document).ready(function () {
         })
         .appendTo($(".game-container").css("position", "relative"));
 
-      $("<button type='button' class='btn btn-dark restartBtn'>Restart</button>").appendTo(
+      $("<button type='button' class='btn btn-dark restartBtn smol'>Restart</button>").appendTo(
         $("#wonDisplay")
       );
 
@@ -560,7 +560,7 @@ $(document).ready(function () {
         .css({
           position: "absolute",
           width: "60%",
-          height: "25%",
+          height: "35%",
           background: "grey",
           top: "50%",
           left: "50%",
@@ -569,7 +569,7 @@ $(document).ready(function () {
         })
         .appendTo($(".game-container").css("position", "relative"));
 
-      $("<button type='button' class='btn btn-dark restartBtn'>Restart</button>").appendTo(
+      $("<button type='button' class='btn btn-dark restartBtn smol'>Restart</button>").appendTo(
         $("#wonDisplay")
       );
 
@@ -597,7 +597,7 @@ $(document).ready(function () {
         .css({
           position: "absolute",
           width: "60%",
-          height: "25%",
+          height: "35%",
           background: "grey",
           top: "50%",
           left: "50%",
@@ -606,7 +606,7 @@ $(document).ready(function () {
         })
         .appendTo($(".game-container").css("position", "relative"));
 
-      $("<button type='button' class='btn btn-dark restartBtn'>Restart</button>").appendTo(
+      $("<button type='button' class='btn btn-dark restartBtn smol'>Restart</button>").appendTo(
         $("#wonDisplay")
       );
 
@@ -627,6 +627,27 @@ $(document).ready(function () {
       $(
         "#field1, #field2, #field3, #field4, #field5, #field6, #field7, #field8, #field9"
       ).css("background-color", "pink");
+
+      $("<div id='drawDisplay'><p>It's a draw !<p></div>")
+        .css({
+          position: "absolute",
+          width: "60%",
+          height: "35%",
+          background: "grey",
+          top: "50%",
+          left: "50%",
+          transform: "translate(-50%, -50%)",
+          border: "3px solid black",
+        })
+        .appendTo($(".game-container").css("position", "relative"));
+
+      $("<button type='button' class='btn btn-dark restartBtn smol'>Restart</button>").appendTo(
+        $("#drawDisplay")
+      );
+
+      $(".restartBtn").click(function () {
+        location.reload(true);
+      });
     }
   });
 });

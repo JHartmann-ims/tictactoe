@@ -79,7 +79,13 @@ table img {
 #wonDisplay {
   border-radius: 10px;
   text-align: center;
-  padding: 6%;
+  padding: 10%;
+}
+
+#drawDisplay {
+  border-radius: 10px;
+  text-align: center;
+  padding: 10%;
 }
 
 /*Adjusting for mobile*/
@@ -96,6 +102,14 @@ table img {
 
     table img {
       width: 32px;
+    }
+
+    #wonDisplay {
+      padding: 3%;
+    }
+    
+    #drawDisplay {
+      padding: 3%;
     }
 
 }
